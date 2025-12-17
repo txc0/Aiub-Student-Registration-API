@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C05FF911-E8D6-4924-9470-71EB569ED09D}|WebApplication1\\CourseRegistrationApi.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C05FF911-E8D6-4924-9470-71EB569ED09D}|WebApplication1\\CourseRegistrationApi.csproj|solutionrelative:webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\.net\\courseregistrationapi\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\dal\\repos\\enrollmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\enrollmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\dal\\repos\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D75B9E-A628-4B4A-9F4C-6A58892EEFAF}|BLL\\BLL.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\bll\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D75B9E-A628-4B4A-9F4C-6A58892EEFAF}|BLL\\BLL.csproj|solutionrelative:bll\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D75B9E-A628-4B4A-9F4C-6A58892EEFAF}|BLL\\BLL.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\bll\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D75B9E-A628-4B4A-9F4C-6A58892EEFAF}|BLL\\BLL.csproj|solutionrelative:bll\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05FF911-E8D6-4924-9470-71EB569ED09D}|WebApplication1\\CourseRegistrationAPI.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\webapplication1\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05FF911-E8D6-4924-9470-71EB569ED09D}|WebApplication1\\CourseRegistrationAPI.csproj|solutionrelative:webapplication1\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\dal\\registrationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|solutionrelative:dal\\registrationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\dal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|solutionrelative:dal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D75B9E-A628-4B4A-9F4C-6A58892EEFAF}|BLL\\BLL.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D75B9E-A628-4B4A-9F4C-6A58892EEFAF}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05FF911-E8D6-4924-9470-71EB569ED09D}|WebApplication1\\CourseRegistrationAPI.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05FF911-E8D6-4924-9470-71EB569ED09D}|WebApplication1\\CourseRegistrationAPI.csproj|solutionrelative:webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D75B9E-A628-4B4A-9F4C-6A58892EEFAF}|BLL\\BLL.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D75B9E-A628-4B4A-9F4C-6A58892EEFAF}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D75B9E-A628-4B4A-9F4C-6A58892EEFAF}|BLL\\BLL.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\bll\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D75B9E-A628-4B4A-9F4C-6A58892EEFAF}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05FF911-E8D6-4924-9470-71EB569ED09D}|WebApplication1\\CourseRegistrationAPI.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\webapplication1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05FF911-E8D6-4924-9470-71EB569ED09D}|WebApplication1\\CourseRegistrationAPI.csproj|solutionrelative:webapplication1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D75B9E-A628-4B4A-9F4C-6A58892EEFAF}|BLL\\BLL.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\bll\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D75B9E-A628-4B4A-9F4C-6A58892EEFAF}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555C6241-64C5-45C4-8E5F-D48558666F6B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:06:13.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\BLL\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\BLL\\Services\\CourseService.cs",
+              "RelativeToolTip": "BLL\\Services\\CourseService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA5wCoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:36:51.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\BLL\\Services\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\EnrollmentService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\BLL\\Services\\EnrollmentService.cs",
+              "RelativeToolTip": "BLL\\Services\\EnrollmentService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:37:26.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\Repos\\CourseRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\CourseRepo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\Repos\\CourseRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\CourseRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:46:39.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnrollmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\Repos\\EnrollmentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\EnrollmentRepo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\Repos\\EnrollmentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\EnrollmentRepo.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:59:56.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\StudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:08:20.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:09:07.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\WebApplication1\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Web.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\WebApplication1\\Web.config",
+              "RelativeToolTip": "WebApplication1\\Web.config",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-25T19:08:34.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\WebApplication1\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\WebApplication1\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowGsAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:37:56.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:37:07.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:00:00.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\Models\\Student.cs",
+              "RelativeToolTip": "DAL\\Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:36:22.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\RegistrationDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\RegistrationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\RegistrationDbContext.cs",
+              "RelativeToolTip": "DAL\\RegistrationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:37:22.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\interfaces\\IRepo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:37:42.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\BLL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\BLL\\Services\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:37:07.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnrollmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\BLL\\DTOs\\EnrollmentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\EnrollmentDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\BLL\\DTOs\\EnrollmentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\EnrollmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:31:55.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\WebApplication1\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\WebApplication1\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T01:13:28.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\BLL\\DTOs\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CourseDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\BLL\\DTOs\\CourseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CourseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:19:22.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\.NET\\CourseRegistrationApi\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:21:28.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
